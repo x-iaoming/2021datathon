@@ -1,0 +1,223 @@
+,class_name,instance_count,rule_list
+0,18,93,"Proportion:[0.750]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions <= 63.576) and (agility <= 60.663)
+
+Proportion:[0.667]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions <= 63.576) and (agility > 60.663) and (positioning > 48.683) and (acceleration <= 65.158)
+
+Proportion:[0.750]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power <= 58.297) and (short_passing <= 60.942) and (shot_power > 55.560) and (ball_control > 59.422)
+
+Proportion:[0.500]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power <= 58.297) and (short_passing > 60.942) and (stamina > 67.547) and (potential <= 73.519)
+
+Proportion:[0.790]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle <= 52.708) and (curve > 49.088) and (vision <= 57.996)
+
+Proportion:[0.250]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle > 52.708) and (buildUpPlayDribbling > 40.750) and (heading_accuracy <= 59.945)
+
+"
+1,20,81,"Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing > 46.500) and (reactions > 76.318) and (volleys <= 54.767)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots <= 60.619) and (weight > 174.516) and (agility <= 63.034) and (attacking_work_rate_low <= 0.004)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots <= 60.619) and (weight > 174.516) and (agility > 63.034)
+
+"
+2,5,72,"Proportion:[0.667]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions > 63.576) and (acceleration > 67.409) and (height <= 182.928)
+
+Proportion:[0.929]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle > 52.708) and (buildUpPlayDribbling <= 40.750) and (stamina > 67.769)
+
+Proportion:[0.906]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing > 46.500) and (reactions <= 76.318) and (sliding_tackle > 52.130) and (chanceCreationCrossing > 43.000)
+
+Proportion:[0.333]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing > 46.500) and (reactions > 76.318) and (volleys > 54.767) and (gk_diving > 16.495)
+
+Proportion:[0.250]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots <= 60.619) and (weight > 174.516) and (agility <= 63.034) and (attacking_work_rate_low > 0.004)
+
+"
+3,1,70,"Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions > 63.576) and (acceleration <= 67.409) and (volleys <= 40.998)
+
+Proportion:[0.667]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions > 63.576) and (acceleration <= 67.409) and (volleys > 40.998)
+
+Proportion:[0.800]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power <= 58.297) and (short_passing <= 60.942) and (shot_power <= 55.560)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power <= 58.297) and (short_passing > 60.942) and (stamina <= 67.547)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power <= 58.297) and (short_passing > 60.942) and (stamina > 67.547) and (potential > 73.519)
+
+Proportion:[0.500]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle > 52.708) and (buildUpPlayDribbling > 40.750) and (heading_accuracy > 59.945)
+
+Proportion:[0.500]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots > 60.619) and (buildUpPlayDribbling > 46.250) and (penalties <= 56.711) and (buildUpPlaySpeed > 55.000)
+
+"
+4,6,69,"Proportion:[0.625]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing <= 46.500) and (overall_rating <= 81.450) and (sliding_tackle <= 54.603) and (aggression > 65.264)
+
+Proportion:[0.278]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots <= 60.619) and (weight <= 174.516) and (short_passing > 63.706) and (finishing > 45.724)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots > 60.619) and (buildUpPlayDribbling <= 46.250) and (defensive_work_rate_high <= 0.488) and (gk_reflexes > 16.790)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots > 60.619) and (buildUpPlayDribbling > 46.250) and (penalties <= 56.711) and (buildUpPlaySpeed <= 55.000)
+
+"
+5,2,57,"Proportion:[0.333]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots > 60.619) and (buildUpPlayDribbling > 46.250) and (penalties > 56.711) and (jumping <= 68.987)
+
+Proportion:[0.975]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots > 60.619) and (buildUpPlayDribbling > 46.250) and (penalties > 56.711) and (jumping > 68.987)
+
+"
+6,10,50,"Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions <= 63.576) and (agility > 60.663) and (positioning <= 48.683)
+
+Proportion:[0.667]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions <= 63.576) and (agility > 60.663) and (positioning > 48.683) and (acceleration > 65.158)
+
+"
+7,22,43,"Proportion:[0.938]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots <= 60.619) and (weight <= 174.516) and (short_passing <= 63.706) and (ball_control > 63.612)
+
+"
+8,3,41,"Proportion:[0.667]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys <= 42.240) and (reactions > 63.576) and (acceleration > 67.409) and (height > 182.928)
+
+Proportion:[0.333]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power <= 58.297) and (short_passing <= 60.942) and (shot_power > 55.560) and (ball_control <= 59.422)
+
+Proportion:[0.786]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle <= 52.708) and (curve <= 49.088) and (preferred_foot_right > 75.798)
+
+Proportion:[0.226]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle <= 52.708) and (curve > 49.088) and (vision > 57.996)
+
+Proportion:[0.200]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots <= 60.619) and (weight <= 174.516) and (short_passing <= 63.706) and (ball_control <= 63.612)
+
+Proportion:[0.333]
+ (gk_kicking > 22.170) and (defencePressure <= 42.500) and (defenceAggression > 32.500) and (defenceTeamWidth <= 42.500) and (aggression <= 64.469)
+
+"
+9,17,35,"Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure <= 42.500) and (defenceAggression <= 32.500) and (sliding_tackle <= 56.843)
+
+Proportion:[0.667]
+ (gk_kicking > 22.170) and (defencePressure <= 42.500) and (defenceAggression <= 32.500) and (sliding_tackle > 56.843)
+
+Proportion:[0.667]
+ (gk_kicking > 22.170) and (defencePressure <= 42.500) and (defenceAggression > 32.500) and (defenceTeamWidth > 42.500) and (aggression <= 68.130)
+
+"
+10,21,33,"Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap > 0.500)
+
+"
+11,4,29,"Proportion:[0.429]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle > 52.708) and (buildUpPlayDribbling <= 40.750) and (stamina <= 67.769)
+
+Proportion:[0.733]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots <= 60.619) and (weight <= 174.516) and (short_passing > 63.706) and (finishing <= 45.724)
+
+"
+12,8,29,"Proportion:[0.727]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing <= 46.500) and (overall_rating <= 81.450) and (sliding_tackle <= 54.603) and (aggression <= 65.264)
+
+Proportion:[0.500]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots > 60.619) and (buildUpPlayDribbling <= 46.250) and (defensive_work_rate_high <= 0.488) and (gk_reflexes <= 16.790)
+
+"
+13,23,29,"Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure <= 42.500) and (defenceAggression > 32.500) and (defenceTeamWidth <= 42.500) and (aggression > 64.469)
+
+Proportion:[0.800]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance <= 68.852) and (volleys > 40.922) and (penalties > 60.575)
+
+Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure <= 62.500) and (standing_tackle <= 58.701) and (buildUpPlayPassing > 47.500) and (defensive_work_rate_low > 0.076)
+
+"
+14,7,28,"Proportion:[0.333]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure <= 62.500) and (standing_tackle <= 58.701) and (buildUpPlayPassing <= 47.500) and (chanceCreationShooting <= 65.500)
+
+Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure <= 62.500) and (standing_tackle <= 58.701) and (buildUpPlayPassing <= 47.500) and (chanceCreationShooting > 65.500)
+
+Proportion:[0.333]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure > 62.500) and (gk_kicking <= 32.723)
+
+Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure > 62.500) and (gk_kicking > 32.723)
+
+"
+15,15,27,"Proportion:[0.600]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions <= 69.111) and (volleys > 42.240) and (shot_power > 58.297) and (standing_tackle <= 52.708) and (curve <= 49.088) and (preferred_foot_right <= 75.798)
+
+"
+16,16,27,"Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance <= 68.852) and (volleys > 40.922) and (penalties <= 60.575)
+
+Proportion:[0.500]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure <= 62.500) and (standing_tackle <= 58.701) and (buildUpPlayPassing > 47.500) and (defensive_work_rate_low <= 0.076) and (defencePressure <= 57.500)
+
+"
+17,13,27,"Proportion:[0.500]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing > 46.500) and (reactions <= 76.318) and (sliding_tackle <= 52.130)
+
+"
+18,9,22,"Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing <= 46.500) and (overall_rating > 81.450)
+
+"
+19,14,18,"Proportion:[0.692]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing <= 46.500) and (overall_rating <= 81.450) and (sliding_tackle > 54.603) and (acceleration <= 72.706)
+
+Proportion:[0.500]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing > 46.500) and (reactions <= 76.318) and (sliding_tackle > 52.130) and (chanceCreationCrossing <= 43.000)
+
+"
+20,19,16,"Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure <= 42.500) and (defenceAggression > 32.500) and (defenceTeamWidth > 42.500) and (aggression > 68.130)
+
+Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure <= 62.500) and (standing_tackle > 58.701) and (stamina <= 75.963)
+
+Proportion:[0.667]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure <= 62.500) and (standing_tackle > 58.701) and (stamina > 75.963)
+
+"
+21,11,13,
+22,12,11,"Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance <= 68.852) and (volleys <= 40.922)
+
+Proportion:[1.000]
+ (gk_kicking > 22.170) and (defencePressure > 42.500) and (balance > 68.852) and (defencePressure <= 62.500) and (standing_tackle <= 58.701) and (buildUpPlayPassing > 47.500) and (defensive_work_rate_low <= 0.076) and (defencePressure > 57.500)
+
+"
+23,0,11,"Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing <= 46.500) and (overall_rating <= 81.450) and (sliding_tackle > 54.603) and (acceleration > 72.706)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling <= 40.750) and (buildUpPlayPassing > 46.500) and (reactions > 76.318) and (volleys > 54.767) and (gk_diving <= 16.495)
+
+Proportion:[1.000]
+ (gk_kicking <= 22.170) and (defenceDefenderLineClass_Offside Trap <= 0.500) and (reactions > 69.111) and (buildUpPlayDribbling > 40.750) and (long_shots > 60.619) and (buildUpPlayDribbling <= 46.250) and (defensive_work_rate_high > 0.488)
+
+"

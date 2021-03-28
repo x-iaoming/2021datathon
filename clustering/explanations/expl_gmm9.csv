@@ -1,0 +1,52 @@
+,class_name,instance_count,rule_list
+0,5,222,"Proportion:[0.531]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions <= 52.861) and (long_shots <= 48.668) and (positioning > 47.825)
+
+Proportion:[0.849]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions <= 52.861) and (long_shots > 48.668) and (weight > 167.637)
+
+Proportion:[0.500]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions > 52.861) and (buildUpPlayDribbling <= 40.750) and (strength <= 71.168)
+
+"
+1,4,184,"Proportion:[0.491]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions <= 52.861) and (long_shots > 48.668) and (weight <= 167.637)
+
+Proportion:[0.557]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions > 52.861) and (buildUpPlayDribbling > 40.750) and (curve <= 57.315)
+
+"
+2,2,154,"Proportion:[0.463]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions > 73.828) and (positioning <= 59.544)
+
+Proportion:[0.875]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions > 73.828) and (positioning > 59.544)
+
+"
+3,0,76,"Proportion:[0.786]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions > 52.861) and (buildUpPlayDribbling <= 40.750) and (strength > 71.168)
+
+"
+4,8,70,"Proportion:[0.400]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking > 23.252) and (defenceAggression > 42.500) and (defencePressure <= 47.500)
+
+Proportion:[0.982]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking > 23.252) and (defenceAggression > 42.500) and (defencePressure > 47.500)
+
+"
+5,3,65,"Proportion:[1.000]
+ (buildUpPlayPositioningClass_Free Form > 0.500)
+
+"
+6,6,60,"Proportion:[0.493]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions > 52.861) and (buildUpPlayDribbling > 40.750) and (curve > 57.315)
+
+"
+7,1,57,"Proportion:[0.915]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking <= 23.252) and (reactions <= 73.828) and (interceptions <= 52.861) and (long_shots <= 48.668) and (positioning <= 47.825)
+
+"
+8,7,43,"Proportion:[0.897]
+ (buildUpPlayPositioningClass_Free Form <= 0.500) and (gk_kicking > 23.252) and (defenceAggression <= 42.500)
+
+"
